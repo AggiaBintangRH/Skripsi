@@ -1,0 +1,1462 @@
+﻿Log file open, 11/20/19 15:38:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Skripsi
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.181955
+LogPluginManager: Warning: Plugin 'DialoguePlugin' exists at 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/DialoguePlugin.uplugin' and 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin.uplugin' - second location will be ignored
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GLTFImporter
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin BlastPlugin
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin DialoguePlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithDataPrepEditor
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithGLTFImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 7 (Service Pack 1), CPU: Pentium(R) Dual-Core  CPU      E5700  @ 3.00GHz, GPU: AMD Radeon HD 5500 Series
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: E:/ProgramFiles/EpicGame/Epic Games/Engine/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Engine.ini]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Engine.ini]
+[2019.11.20-08.38.40:573][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Engine.ini]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Engine.ini]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.20-08.38.40:573][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.20-08.38.40:574][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.20-08.38.40:574][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.20-08.38.40:574][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.20-08.38.40:574][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.20-08.38.40:574][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.20-08.38.40:574][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.20-08.38.40:574][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.20-08.38.40:574][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.20-08.38.40:574][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.20-08.38.40:574][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Engine.ini]
+[2019.11.20-08.38.40:574][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Engine.ini]
+[2019.11.20-08.38.40:576][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-08.38.40:576][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.20-08.38.40:576][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.20-08.38.40:576][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-08.38.40:576][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.20-08.38.40:576][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-08.38.40:576][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.20-08.38.40:576][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.20-08.38.40:576][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.20-08.38.40:576][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.20-08.38.40:576][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.20-08.38.40:576][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.20-08.38.40:576][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.20-08.38.40:576][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.20-08.38.40:576][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.20-08.38.40:576][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.20-08.38.40:576][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.20-08.38.40:577][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.20-08.38.40:578][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-08.38.40:578][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.20-08.38.40:578][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.20-08.38.40:578][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.20-08.38.40:578][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.20-08.38.40:578][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.20-08.38.40:578][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.20-08.38.40:578][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.20-08.38.40:578][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.20-08.38.40:578][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.20-08.38.40:578][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.20-08.38.40:578][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.20-08.38.40:578][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.20-08.38.40:578][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.20-08.38.40:578][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-08.38.40:578][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.20-08.38.40:578][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.20-08.38.40:578][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.20-08.38.40:578][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.20-08.38.40:603][  0]LogHAL: Display: Platform has ~ 4 GB [4294172672 / 4294967296 / 4], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.20-08.38.40:603][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.20-08.38.40:603][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2019.11.20-08.38.40:603][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2019.11.20-08.38.40:603][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2019.11.20-08.38.40:603][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.11.20-08.38.40:603][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Scalability.ini]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2019.11.20-08.38.40:604][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.20-08.38.40:605][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.20-08.38.40:605][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.20-08.38.40:605][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Config/Windows/Engine.ini]
+[2019.11.20-08.38.40:605][  0]LogInit: Computer: STARS-PC
+[2019.11.20-08.38.40:605][  0]LogInit: User: STARS
+[2019.11.20-08.38.40:605][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.11.20-08.38.40:605][  0]LogInit: High frequency timer resolution =2.921621 MHz
+[2019.11.20-08.38.40:605][  0]LogMemory: Memory total: Physical=4.0GB (4GB approx)
+[2019.11.20-08.38.40:605][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.20-08.38.40:605][  0]LogMemory: Process Physical Memory: 97.96 MB used, 97.96 MB peak
+[2019.11.20-08.38.40:606][  0]LogMemory: Process Virtual Memory: 87.47 MB used, 87.47 MB peak
+[2019.11.20-08.38.40:606][  0]LogMemory: Physical Memory: 1700.27 MB used,  2394.97 MB free, 4095.24 MB total
+[2019.11.20-08.38.40:606][  0]LogMemory: Virtual Memory: 497.37 MB used,  8388110.50 MB free, 8388608.00 MB total
+[2019.11.20-08.38.40:640][  0]LogInit: Using OS detected language (en-US).
+[2019.11.20-08.38.40:640][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.20-08.38.40:641][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.20-08.38.40:958][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2019.11.20-08.38.40:958][  0]LogWindows: File 'shcore.dll' does not exist
+[2019.11.20-08.38.40:958][  0]LogInit: Setting process to DPI aware
+[2019.11.20-08.38.40:987][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.20-08.38.40:987][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.20-08.38.41:241][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.20-08.38.41:241][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.20-08.38.41:253][  0]LogD3D11RHI:    0. 'AMD Radeon HD 5500 Series' (Feature Level 11_0)
+[2019.11.20-08.38.41:253][  0]LogD3D11RHI:       1012/0/1791 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.11.20-08.38.41:253][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.20-08.38.41:259][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.20-08.38.41:260][  0]LogD3D11RHI:     GPU DeviceId: 0x675f (for the marketing name, search the web for "GPU Device Id")
+[2019.11.20-08.38.41:260][  0]LogWindows: EnumDisplayDevices:
+[2019.11.20-08.38.41:260][  0]LogWindows:    0. 'AMD Radeon HD 5500 Series' (P:1 D:1)
+[2019.11.20-08.38.41:260][  0]LogWindows:    1. 'AMD Radeon HD 5500 Series' (P:0 D:0)
+[2019.11.20-08.38.41:261][  0]LogWindows:    2. 'RDPDD Chained DD' (P:0 D:0)
+[2019.11.20-08.38.41:261][  0]LogWindows:    3. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2019.11.20-08.38.41:261][  0]LogWindows:    4. 'RDP Reflector Display Driver' (P:0 D:0)
+[2019.11.20-08.38.41:261][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2019.11.20-08.38.41:261][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 5500 Series
+[2019.11.20-08.38.41:261][  0]LogD3D11RHI:   Driver Version: Crimson 16.2.1 (internal:15.301.1901.0, unified:15.301.1901.0)
+[2019.11.20-08.38.41:261][  0]LogD3D11RHI:      Driver Date: 2-26-2016
+[2019.11.20-08.38.41:261][  0]LogRHI: Texture pool is 708 MB (70% of 1012 MB)
+[2019.11.20-08.38.41:281][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2019.11.20-08.38.41:290][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.20-08.38.41:297][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.20-08.38.41:298][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.20-08.38.41:298][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.20-08.38.41:307][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2019.11.20-08.38.41:817][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.20-08.38.41:842][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.20-08.38.41:869][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.20-08.38.41:896][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.20-08.38.41:923][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.20-08.38.41:951][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.20-08.38.41:978][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.20-08.38.42:003][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.20-08.38.42:016][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.20-08.38.42:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.20-08.38.42:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.20-08.38.42:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.20-08.38.42:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.20-08.38.42:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.20-08.38.42:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.20-08.38.42:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.20-08.38.42:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.20-08.38.42:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.20-08.38.42:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.20-08.38.42:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.20-08.38.42:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.20-08.38.42:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.20-08.38.42:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.20-08.38.42:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.20-08.38.42:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.20-08.38.42:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.20-08.38.42:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.20-08.38.42:179][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.20-08.38.42:252][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.20-08.38.42:252][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.20-08.38.42:297][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.20-08.38.42:297][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.20-08.38.42:320][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.20-08.38.42:342][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.20-08.38.42:366][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.20-08.38.42:389][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.20-08.38.42:474][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.20-08.38.42:474][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.20-08.38.42:474][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.20-08.38.42:487][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.20-08.38.42:559][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Intermediate/Shaders/WorkingDirectory/1088/).
+[2019.11.20-08.38.42:559][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/STARS/AppData/Local/Temp/UnrealShaderWorkingDir/573E45B842561CCF561B179553CF2B2F/'.
+[2019.11.20-08.38.42:562][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.20-08.38.42:562][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.20-08.38.42:562][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.20-08.38.44:143][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.20-08.38.44:292][  0]LogDerivedDataCache: Loaded boot cache 0.15s 72MB C:/Users/STARS/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.20-08.38.44:293][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/STARS/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.20-08.38.44:293][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UNIBBA/Skripsi/Aplikasi/Skripsi/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.20-08.38.44:293][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.20-08.38.44:293][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UNIBBA/Skripsi/Aplikasi/Skripsi/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.20-08.38.44:293][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.20-08.38.44:312][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.20-08.38.44:317][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.11.20-08.38.44:330][  0]LogDerivedDataCache: Using Local data cache path C:/Users/STARS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.20-08.38.44:330][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.20-08.38.44:330][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.20-08.38.44:368][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.20-08.38.44:370][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.20-08.38.44:371][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.20-08.38.44:499][  0]LogAssetRegistry: FAssetRegistry took 0.0433 seconds to start up
+[2019.11.20-08.38.45:108][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.20-08.38.45:342][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.20-08.38.45:342][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.20-08.38.45:342][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.20-08.38.45:342][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.20-08.38.45:342][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.20-08.38.45:363][  0]LogNetVersion: Skripsi 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2665116949)
+[2019.11.20-08.38.46:202][  0]LogPackageLocalizationCache: Processed 17 localized package path(s) for 1 prioritized culture(s) in 0.127645 seconds
+[2019.11.20-08.38.46:217][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.20-08.38.46:217][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.20-08.38.46:217][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.20-08.38.47:574][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.20-08.38.47:602][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.20-08.38.47:784][  0]SourceControl: Source control is disabled
+[2019.11.20-08.38.47:784][  0]SourceControl: Source control is disabled
+[2019.11.20-08.38.47:788][  0]SourceControl: Source control is disabled
+[2019.11.20-08.38.47:790][  0]SourceControl: Source control is disabled
+[2019.11.20-08.38.48:257][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/playerNode.png' error.
+[2019.11.20-08.38.48:257][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/playerNode.png
+[2019.11.20-08.38.48:257][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/npcNode.png' error.
+[2019.11.20-08.38.48:257][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/npcNode.png
+[2019.11.20-08.38.48:257][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/startNode.png' error.
+[2019.11.20-08.38.48:257][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/startNode.png
+[2019.11.20-08.38.48:257][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/event.png' error.
+[2019.11.20-08.38.48:257][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/event.png
+[2019.11.20-08.38.48:257][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.20-08.38.48:257][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/sound.png' error.
+[2019.11.20-08.38.48:257][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/sound.png
+[2019.11.20-08.38.48:257][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_64.png' error.
+[2019.11.20-08.38.48:257][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_64.png
+[2019.11.20-08.38.48:258][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_16.png' error.
+[2019.11.20-08.38.48:258][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_16.png
+[2019.11.20-08.38.48:294][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.20-08.38.48:364][  0]LogOcInput: OculusInput pre-init called
+[2019.11.20-08.38.49:166][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/playerNode.png' error.
+[2019.11.20-08.38.49:167][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/playerNode.png
+[2019.11.20-08.38.49:167][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/npcNode.png' error.
+[2019.11.20-08.38.49:167][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/npcNode.png
+[2019.11.20-08.38.49:167][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/startNode.png' error.
+[2019.11.20-08.38.49:167][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/startNode.png
+[2019.11.20-08.38.49:167][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/event.png' error.
+[2019.11.20-08.38.49:167][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/event.png
+[2019.11.20-08.38.49:167][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.20-08.38.49:167][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/sound.png' error.
+[2019.11.20-08.38.49:167][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/sound.png
+[2019.11.20-08.38.49:167][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_64.png' error.
+[2019.11.20-08.38.49:167][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_64.png
+[2019.11.20-08.38.49:167][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_16.png' error.
+[2019.11.20-08.38.49:167][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_16.png
+[2019.11.20-08.38.50:242][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/playerNode.png' error.
+[2019.11.20-08.38.50:242][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/playerNode.png
+[2019.11.20-08.38.50:242][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/npcNode.png' error.
+[2019.11.20-08.38.50:242][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/npcNode.png
+[2019.11.20-08.38.50:242][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/startNode.png' error.
+[2019.11.20-08.38.50:242][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/startNode.png
+[2019.11.20-08.38.50:242][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/event.png' error.
+[2019.11.20-08.38.50:242][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/event.png
+[2019.11.20-08.38.50:242][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.20-08.38.50:242][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/sound.png' error.
+[2019.11.20-08.38.50:242][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/sound.png
+[2019.11.20-08.38.50:242][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_64.png' error.
+[2019.11.20-08.38.50:242][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_64.png
+[2019.11.20-08.38.50:242][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_16.png' error.
+[2019.11.20-08.38.50:242][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_16.png
+[2019.11.20-08.38.51:026][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/playerNode.png' error.
+[2019.11.20-08.38.51:027][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/playerNode.png
+[2019.11.20-08.38.51:027][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/npcNode.png' error.
+[2019.11.20-08.38.51:027][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/npcNode.png
+[2019.11.20-08.38.51:027][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/startNode.png' error.
+[2019.11.20-08.38.51:027][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/startNode.png
+[2019.11.20-08.38.51:027][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/event.png' error.
+[2019.11.20-08.38.51:027][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/event.png
+[2019.11.20-08.38.51:027][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.20-08.38.51:027][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/sound.png' error.
+[2019.11.20-08.38.51:027][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/sound.png
+[2019.11.20-08.38.51:027][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_64.png' error.
+[2019.11.20-08.38.51:027][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_64.png
+[2019.11.20-08.38.51:027][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_16.png' error.
+[2019.11.20-08.38.51:027][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_16.png
+[2019.11.20-08.38.52:223][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/playerNode.png' error.
+[2019.11.20-08.38.52:223][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/playerNode.png
+[2019.11.20-08.38.52:223][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/npcNode.png' error.
+[2019.11.20-08.38.52:223][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/npcNode.png
+[2019.11.20-08.38.52:223][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/startNode.png' error.
+[2019.11.20-08.38.52:223][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/startNode.png
+[2019.11.20-08.38.52:223][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/event.png' error.
+[2019.11.20-08.38.52:223][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/event.png
+[2019.11.20-08.38.52:223][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.20-08.38.52:223][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/sound.png' error.
+[2019.11.20-08.38.52:223][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/sound.png
+[2019.11.20-08.38.52:223][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_64.png' error.
+[2019.11.20-08.38.52:223][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_64.png
+[2019.11.20-08.38.52:223][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_16.png' error.
+[2019.11.20-08.38.52:223][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_16.png
+[2019.11.20-08.38.52:359][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2019.11.20-08.38.52:359][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2019.11.20-08.38.52:360][  0]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2019.11.20-08.38.52:360][  0]LogWindows: File 'libalias_api.dll' does not exist
+[2019.11.20-08.38.52:534][  0]LogEngine: Initializing Engine...
+[2019.11.20-08.38.52:535][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.20-08.38.52:537][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.20-08.38.52:977][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.20-08.38.53:002][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.20-08.38.53:059][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-08.38.53:100][  0]LogInit: FAudioDevice initialized.
+[2019.11.20-08.38.53:100][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.20-08.38.53:348][  0]LogDerivedDataCache: Saved boot cache 0.25s 72MB C:/Users/STARS/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.20-08.38.53:359][  0]LogInit: Texture streaming: Enabled
+[2019.11.20-08.38.53:393][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.20-08.38.53:418][  0]LogInit: Transaction tracking system initialized
+[2019.11.20-08.38.53:458][  0]BlueprintLog: New page: Editor Load
+[2019.11.20-08.38.53:602][  0]LocalizationService: Localization service is disabled
+[2019.11.20-08.38.55:073][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.20-08.38.55:074][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.20-08.38.55:617][  0]LogFileCache: Scanning file cache for directory 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/' took 0.03s
+[2019.11.20-08.38.56:349][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/playerNode.png' error.
+[2019.11.20-08.38.56:349][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/playerNode.png
+[2019.11.20-08.38.56:349][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/npcNode.png' error.
+[2019.11.20-08.38.56:349][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/npcNode.png
+[2019.11.20-08.38.56:349][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/startNode.png' error.
+[2019.11.20-08.38.56:349][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/startNode.png
+[2019.11.20-08.38.56:349][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/event.png' error.
+[2019.11.20-08.38.56:349][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/event.png
+[2019.11.20-08.38.56:349][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.20-08.38.56:349][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/sound.png' error.
+[2019.11.20-08.38.56:349][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/sound.png
+[2019.11.20-08.38.56:349][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_64.png' error.
+[2019.11.20-08.38.56:349][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_64.png
+[2019.11.20-08.38.56:349][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_16.png' error.
+[2019.11.20-08.38.56:349][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_16.png
+[2019.11.20-08.38.57:381][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/playerNode.png' error.
+[2019.11.20-08.38.57:381][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/playerNode.png
+[2019.11.20-08.38.57:381][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/npcNode.png' error.
+[2019.11.20-08.38.57:381][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/npcNode.png
+[2019.11.20-08.38.57:382][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/startNode.png' error.
+[2019.11.20-08.38.57:382][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/startNode.png
+[2019.11.20-08.38.57:382][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/event.png' error.
+[2019.11.20-08.38.57:382][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/event.png
+[2019.11.20-08.38.57:382][  0]LogSlate: Only pngs are supported in Slate
+[2019.11.20-08.38.57:382][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/sound.png' error.
+[2019.11.20-08.38.57:382][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/sound.png
+[2019.11.20-08.38.57:382][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_64.png' error.
+[2019.11.20-08.38.57:382][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_64.png
+[2019.11.20-08.38.57:382][  0]LogStreaming: Warning: Failed to read file 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_16.png' error.
+[2019.11.20-08.38.57:382][  0]LogSlate: Could not find file for Slate resource: D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/DialoguePlugin/DialoguePlugin/HostProject/Plugins/DialoguePlugin/Content/dialogue_16.png
+[2019.11.20-08.38.57:528][  0]SourceControl: Source control is disabled
+[2019.11.20-08.38.57:648][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 E:/ProgramFiles/EpicGame/Epic Games/Engine/UE_4.22/FeaturePacks/StarterContent.upack)
+[2019.11.20-08.38.57:830][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2019.11.20-08.38.57:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2019.11.20-08.38.57:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2019.11.20-08.38.57:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2019.11.20-08.38.58:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2019.11.20-08.38.58:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2019.11.20-08.38.58:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2019.11.20-08.38.58:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2019.11.20-08.38.58:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2019.11.20-08.38.58:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2019.11.20-08.38.58:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2019.11.20-08.38.58:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2019.11.20-08.38.58:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Collapse01.uasset"
+[2019.11.20-08.38.58:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Collapse02.uasset"
+[2019.11.20-08.38.58:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2019.11.20-08.38.58:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Explosion01.uasset"
+[2019.11.20-08.38.58:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Explosion02.uasset"
+[2019.11.20-08.38.58:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2019.11.20-08.38.58:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Fire01.uasset"
+[2019.11.20-08.38.58:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2019.11.20-08.38.58:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2019.11.20-08.38.58:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2019.11.20-08.38.58:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Light01.uasset"
+[2019.11.20-08.38.58:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2019.11.20-08.38.58:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Light02.uasset"
+[2019.11.20-08.38.58:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2019.11.20-08.38.58:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Smoke01.uasset"
+[2019.11.20-08.38.58:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2019.11.20-08.38.58:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2019.11.20-08.38.58:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2019.11.20-08.38.58:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2019.11.20-08.38.59:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2019.11.20-08.38.59:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2019.11.20-08.38.59:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2019.11.20-08.38.59:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Steam01.uasset"
+[2019.11.20-08.38.59:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2019.11.20-08.38.59:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2019.11.20-08.38.59:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2019.11.20-08.38.59:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2019.11.20-08.38.59:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2019.11.20-08.38.59:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2019.11.20-08.38.59:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2019.11.20-08.38.59:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2019.11.20-08.38.59:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2019.11.20-08.38.59:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2019.11.20-08.38.59:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2019.11.20-08.38.59:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2019.11.20-08.38.59:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2019.11.20-08.38.59:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2019.11.20-08.38.59:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2019.11.20-08.38.59:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2019.11.20-08.38.59:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2019.11.20-08.39.01:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2019.11.20-08.39.01:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2019.11.20-08.39.01:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2019.11.20-08.39.01:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Maps/Minimal_Default.umap"
+[2019.11.20-08.39.02:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2019.11.20-08.39.02:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Maps/StarterMap.umap"
+[2019.11.20-08.39.02:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2019.11.20-08.39.02:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2019.11.20-08.39.03:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2019.11.20-08.39.03:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2019.11.20-08.39.03:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2019.11.20-08.39.03:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2019.11.20-08.39.03:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2019.11.20-08.39.03:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2019.11.20-08.39.04:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2019.11.20-08.39.04:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2019.11.20-08.39.04:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2019.11.20-08.39.04:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2019.11.20-08.39.04:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2019.11.20-08.39.04:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2019.11.20-08.39.04:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2019.11.20-08.39.04:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2019.11.20-08.39.04:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2019.11.20-08.39.04:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2019.11.20-08.39.04:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Glass.uasset"
+[2019.11.20-08.39.04:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2019.11.20-08.39.04:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2019.11.20-08.39.04:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2019.11.20-08.39.04:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2019.11.20-08.39.04:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2019.11.20-08.39.05:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2019.11.20-08.39.05:026][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2019.11.20-08.39.05:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2019.11.20-08.39.05:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2019.11.20-08.39.05:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2019.11.20-08.39.05:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2019.11.20-08.39.05:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2019.11.20-08.39.05:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2019.11.20-08.39.05:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2019.11.20-08.39.05:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2019.11.20-08.39.05:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2019.11.20-08.39.05:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2019.11.20-08.39.05:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2019.11.20-08.39.05:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2019.11.20-08.39.05:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2019.11.20-08.39.05:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2019.11.20-08.39.05:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2019.11.20-08.39.05:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2019.11.20-08.39.05:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2019.11.20-08.39.05:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2019.11.20-08.39.05:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2019.11.20-08.39.05:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Particles/P_Explosion.uasset"
+[2019.11.20-08.39.05:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Particles/P_Fire.uasset"
+[2019.11.20-08.39.05:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Particles/P_Smoke.uasset"
+[2019.11.20-08.39.05:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Particles/P_Sparks.uasset"
+[2019.11.20-08.39.05:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2019.11.20-08.39.05:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2019.11.20-08.39.05:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2019.11.20-08.39.05:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2019.11.20-08.39.05:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2019.11.20-08.39.05:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2019.11.20-08.39.05:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2019.11.20-08.39.05:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2019.11.20-08.39.06:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2019.11.20-08.39.06:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2019.11.20-08.39.06:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2019.11.20-08.39.06:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/MaterialSphere.uasset"
+[2019.11.20-08.39.06:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/SM_Bush.uasset"
+[2019.11.20-08.39.06:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/SM_Chair.uasset"
+[2019.11.20-08.39.06:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2019.11.20-08.39.06:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/SM_Couch.uasset"
+[2019.11.20-08.39.06:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/SM_Door.uasset"
+[2019.11.20-08.39.06:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2019.11.20-08.39.06:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2019.11.20-08.39.06:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2019.11.20-08.39.06:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2019.11.20-08.39.06:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2019.11.20-08.39.06:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2019.11.20-08.39.06:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2019.11.20-08.39.06:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/SM_Rock.uasset"
+[2019.11.20-08.39.06:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/SM_Shelf.uasset"
+[2019.11.20-08.39.06:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/SM_Stairs.uasset"
+[2019.11.20-08.39.06:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/SM_Statue.uasset"
+[2019.11.20-08.39.06:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/SM_TableRound.uasset"
+[2019.11.20-08.39.06:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2019.11.20-08.39.06:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2019.11.20-08.39.06:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2019.11.20-08.39.06:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2019.11.20-08.39.06:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2019.11.20-08.39.06:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2019.11.20-08.39.06:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2019.11.20-08.39.06:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2019.11.20-08.39.06:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2019.11.20-08.39.06:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2019.11.20-08.39.06:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2019.11.20-08.39.07:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2019.11.20-08.39.07:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2019.11.20-08.39.07:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2019.11.20-08.39.07:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2019.11.20-08.39.07:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2019.11.20-08.39.07:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2019.11.20-08.39.07:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2019.11.20-08.39.07:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2019.11.20-08.39.07:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2019.11.20-08.39.07:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2019.11.20-08.39.07:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2019.11.20-08.39.07:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2019.11.20-08.39.07:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2019.11.20-08.39.07:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2019.11.20-08.39.07:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2019.11.20-08.39.07:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2019.11.20-08.39.07:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2019.11.20-08.39.07:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2019.11.20-08.39.07:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2019.11.20-08.39.07:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2019.11.20-08.39.07:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2019.11.20-08.39.07:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2019.11.20-08.39.08:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2019.11.20-08.39.08:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2019.11.20-08.39.08:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2019.11.20-08.39.08:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2019.11.20-08.39.08:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2019.11.20-08.39.09:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2019.11.20-08.39.09:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2019.11.20-08.39.10:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2019.11.20-08.39.10:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2019.11.20-08.39.10:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2019.11.20-08.39.11:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2019.11.20-08.39.11:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2019.11.20-08.39.11:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2019.11.20-08.39.11:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2019.11.20-08.39.11:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2019.11.20-08.39.11:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2019.11.20-08.39.11:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2019.11.20-08.39.11:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2019.11.20-08.39.11:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2019.11.20-08.39.11:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2019.11.20-08.39.12:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2019.11.20-08.39.12:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2019.11.20-08.39.12:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2019.11.20-08.39.12:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2019.11.20-08.39.13:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2019.11.20-08.39.13:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2019.11.20-08.39.13:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2019.11.20-08.39.14:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2019.11.20-08.39.14:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2019.11.20-08.39.14:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2019.11.20-08.39.14:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2019.11.20-08.39.15:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2019.11.20-08.39.15:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2019.11.20-08.39.15:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2019.11.20-08.39.16:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2019.11.20-08.39.16:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2019.11.20-08.39.16:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2019.11.20-08.39.16:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2019.11.20-08.39.16:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Door_M.uasset"
+[2019.11.20-08.39.17:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Door_N.uasset"
+[2019.11.20-08.39.17:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2019.11.20-08.39.17:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2019.11.20-08.39.17:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2019.11.20-08.39.17:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2019.11.20-08.39.17:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2019.11.20-08.39.17:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2019.11.20-08.39.17:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2019.11.20-08.39.17:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2019.11.20-08.39.18:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2019.11.20-08.39.18:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2019.11.20-08.39.19:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2019.11.20-08.39.19:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2019.11.20-08.39.20:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2019.11.20-08.39.20:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2019.11.20-08.39.20:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2019.11.20-08.39.20:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2019.11.20-08.39.20:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2019.11.20-08.39.21:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2019.11.20-08.39.21:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2019.11.20-08.39.21:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2019.11.20-08.39.21:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2019.11.20-08.39.22:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2019.11.20-08.39.22:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2019.11.20-08.39.22:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2019.11.20-08.39.22:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2019.11.20-08.39.23:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2019.11.20-08.39.23:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2019.11.20-08.39.23:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2019.11.20-08.39.24:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2019.11.20-08.39.24:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2019.11.20-08.39.24:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2019.11.20-08.39.25:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2019.11.20-08.39.25:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2019.11.20-08.39.26:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2019.11.20-08.39.26:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2019.11.20-08.39.26:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2019.11.20-08.39.26:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2019.11.20-08.39.26:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2019.11.20-08.39.26:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2019.11.20-08.39.26:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2019.11.20-08.39.27:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2019.11.20-08.39.27:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2019.11.20-08.39.27:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2019.11.20-08.39.27:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2019.11.20-08.39.27:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2019.11.20-08.39.27:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2019.11.20-08.39.27:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2019.11.20-08.39.27:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2019.11.20-08.39.27:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2019.11.20-08.39.27:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2019.11.20-08.39.27:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2019.11.20-08.39.28:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Water_M.uasset"
+[2019.11.20-08.39.28:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Water_N.uasset"
+[2019.11.20-08.39.28:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2019.11.20-08.39.28:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2019.11.20-08.39.28:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2019.11.20-08.39.29:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2019.11.20-08.39.29:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2019.11.20-08.39.29:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2019.11.20-08.39.29:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2019.11.20-08.39.30:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2019.11.20-08.39.30:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2019.11.20-08.39.30:388][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2019.11.20-08.39.30:392][  0]LogStaticMesh: Built static mesh [0.04s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2019.11.20-08.39.31:130][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 9 NumSamples 1 (Frame:1).
+[2019.11.20-08.39.31:397][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2019.11.20-08.39.31:999][  0]LogSavePackage: Moving 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Floor_400x400947FA3D3463560721601BEA3C45764D1.tmp' to 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2019.11.20-08.39.32:039][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2019.11.20-08.39.32:041][  0]Cmd: MAP LOAD FILE="D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/AdvancedLocomotionV3/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.20-08.39.32:041][  0]LightingResults: New page: Lighting Build
+[2019.11.20-08.39.32:044][  0]MapCheck: New page: Map Check
+[2019.11.20-08.39.32:044][  0]LightingResults: New page: Lighting Build
+[2019.11.20-08.39.32:098][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.11.20-08.39.47:623][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.20-08.39.47:669][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.20-08.39.47:799][  0]LogUObjectHash: Compacting FUObjectHashTables data took   7.73ms
+[2019.11.20-08.39.47:800][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.20-08.39.47:800][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.154ms to complete.
+[2019.11.20-08.39.47:800][  0]LogFileHelpers: Loading map 'MainMenu' took 15.760
+[2019.11.20-08.39.48:021][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-08.39.48:034][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-08.39.48:046][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-08.39.48:059][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-08.39.48:070][  0]LogCollectionManager: Loaded 0 collections in 0.002257 seconds
+[2019.11.20-08.39.48:125][  0]LogFileCache: Scanning file cache for directory 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Saved/Collections/' took 0.01s
+[2019.11.20-08.39.48:125][  0]LogFileCache: Scanning file cache for directory 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/Developers/STARS/Collections/' took 0.01s
+[2019.11.20-08.39.48:125][  0]LogFileCache: Scanning file cache for directory 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Content/Collections/' took 0.01s
+[2019.11.20-08.39.48:125][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.11.20-08.39.48:142][  0]LogContentBrowser: Native class hierarchy populated in 0.0173 seconds. Added 2871 classes and 731 folders.
+[2019.11.20-08.39.48:223][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.11.20-08.39.48:263][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:296][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:302][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:324][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:324][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:342][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:350][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:368][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:383][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:398][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:400][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:415][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:466][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:504][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:523][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:531][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:551][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:558][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:577][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:597][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:607][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:615][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:629][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:667][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:785][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.48:805][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.20-08.39.49:947][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.11.20-08.39.49:952][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2019.11.20-08.39.50:131][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.20-08.39.50:134][  0]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.20-08.39.50:163][  0]LogSlate: Took 0.020472 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.20-08.39.50:228][  0]LogRenderer: Reallocating scene render targets to support 688x368 Format 9 NumSamples 1 (Frame:1).
+[2019.11.20-08.39.50:448][  0]LogSlate: Took 0.019349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.20-08.39.50:612][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.11.20-08.39.50:612][  0]LogLoad: (Engine Initialization) Total time: 72.18 seconds
+[2019.11.20-08.39.50:612][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.20-08.39.51:000][  0]LogContentStreaming: Texture pool size now 400 MB
+[2019.11.20-08.39.51:180][  1]LogAssetRegistry: Asset discovery search completed in 66.7045 seconds
+[2019.11.20-08.39.51:185][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.11.20-08.39.51:185][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000128 seconds (updated 0 objects)
+[2019.11.20-08.39.57:158][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-08.40.17:295][917]LogSlate: Window 'Plugins' being destroyed
+[2019.11.20-08.40.17:299][917]LogSlate: Window 'Plugins' being destroyed
+[2019.11.20-08.40.17:299][917]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.11.20-08.40.17:299][917]LogDirectoryWatcher: A directory notification for 'E:/ProgramFiles/EpicGame/Epic Games/Engine/UE_4.22/Enterprise/Plugins/' was aborted.
+[2019.11.20-08.40.17:299][917]LogDirectoryWatcher: A directory notification for 'D:/UNIBBA/Skripsi/Aplikasi/Skripsi/Plugins/' was aborted.
+[2019.11.20-08.40.25:174][318]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-08.40.29:148][776]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-08.40.29:154][776]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.20-08.40.29:154][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-08.40.29:155][776]PIE: New page: PIE session: MainMenu (Nov 20, 2019, 10:40:29 PM)
+[2019.11.20-08.40.29:167][776]LogPlayLevel: Creating play world package: /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_MainMenu
+[2019.11.20-08.40.29:185][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016709s)
+[2019.11.20-08.40.29:187][776]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.20-08.40.29:187][776]LogPlayLevel: PIE: World Init took: (0.002298s)
+[2019.11.20-08.40.29:187][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu to /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_MainMenu.MainMenu (0.019370s)
+[2019.11.20-08.40.29:233][776]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.11.20-08.40.29:233][776]LogGarbage: Warning:       PIE object: World /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_MainMenu.MainMenu
+[2019.11.20-08.40.29:233][776]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.11.20-08.40.29:260][776]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2019.11.20-08.40.29:262][776]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-08.40.29:273][776]LogInit: FAudioDevice initialized.
+[2019.11.20-08.40.29:273][776]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-08.40.29:320][776]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2019.11.20-08.40.29:324][776]LogWorld: Bringing World /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.11.20-15.40.29
+[2019.11.20-08.40.29:325][776]LogWorld: Bringing up level for play took: 0.003283
+[2019.11.20-08.40.29:366][776]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.11.20-08.40.29:367][776]LogScript: Warning: Accessed None trying to read property GameInstance
+	MannequinCharacter_C /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_MainMenu.MainMenu:PersistentLevel.MannequinCharacter_2
+	Function /Game/AdvancedLocomotionV3/Blueprints/ALS_BaseCharacter.ALS_BaseCharacter_C:LoadGamePlayer:092E
+[2019.11.20-08.40.29:382][776]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GameInstance". Blueprint:  ALS_BaseCharacter Function:  Load Game Player Graph:  LoadGamePlayer Node:  Save Game Player
+[2019.11.20-08.40.29:394][776]LogOutputDevice: Warning: 
+
+Script Stack (4 frames):
+ALS_BaseCharacter_C.SaveGamePlayer
+ALS_BaseCharacter_C.LoadGamePlayer
+ALS_BaseCharacter_C.ExecuteUbergraph_ALS_BaseCharacter
+ALS_BaseCharacter_C.ReceiveBeginPlay
+
+[2019.11.20-08.40.36:022][776]LogStats: FPlatformStackWalk::StackWalkAndDump -  6.628 s
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: 
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: Ensure condition failed: Stack.MostRecentPropertyAddress [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\ScriptCore.cpp] [Line: 761]
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: 
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: Stack: 
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fed21d53b9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fed20e5d1f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fed210e6a9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fed210e98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fed20e5efb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fed210e6a9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fed210e98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fed20e5efb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fed210e6a9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fed210e98d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fed210e378 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fed1efbac8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fed210df07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fec34c9ff3 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fec3497358 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fec34a1af6 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fec45bcb99 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fec3b22911 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fec457754e UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fec3ae99af UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fecdfabe44 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fecdfcb044 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fecdfe319f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fecdabfc4a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000007fece2dd396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000000013f2e6bb1 UE4Editor.exe!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000000013f2f554c UE4Editor.exe!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000000013f2f55ca UE4Editor.exe!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000000013f30316c UE4Editor.exe!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x000000013f305b8e UE4Editor.exe!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x0000000076df556d kernel32.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: [Callstack] 0x0000000076f5385d ntdll.dll!UnknownFunction []
+[2019.11.20-08.40.36:023][776]LogOutputDevice: Error: 
+[2019.11.20-08.40.36:034][776]LogStats:                SubmitErrorReport -  0.000 s
+[2019.11.20-08.40.45:811][776]LogStats:                    SendNewReport -  9.777 s
+[2019.11.20-08.40.45:811][776]LogStats:             FDebug::EnsureFailed - 16.417 s
+[2019.11.20-08.40.47:248][776]PIE: Play in editor start time for /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_MainMenu 17.376
+[2019.11.20-08.40.47:249][776]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.20-08.40.50:894][943]LogHttp: Warning: 0000000030A2BB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.20-08.40.50:894][943]LogHttp: Warning: 0000000030A2BB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.20-08.40.50:894][943]LogHttp: Warning: 0000000030A2BB00: libcurl info message cache 1 (Closing connection 0)
+[2019.11.20-08.40.50:909][944]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9975127B-4EAD-650B-9FC4-0F95C43A7BE3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=c5bdeca94d8f00f9cc007ebb5f4cc6fa%7Cb49674dc30f14b7197cffb2125a4aacb%7C90ab3781-824e-4c8b-b30b-d213f4724f2a&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.11.20-08.40.54:083][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-08.40.54:174][150]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.20-08.40.54:830][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-08.40.54:841][150]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.20-08.40.55:034][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-08.40.55:443][150]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2019.11.20-08.40.55:732][151]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.11.20-08.40.57:981][236]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.20-08.40.57:995][236]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AdvancedLocomotionV3/Blueprints/ALS_BaseCharacter.ALS_BaseCharacter
+[2019.11.20-08.40.59:719][236]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 121 classes and 0 folders.
+[2019.11.20-08.41.03:759][236]LogSlate: Took 0.014510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.20-08.41.04:595][237]LogSlate: Took 0.016348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.20-08.41.41:387][492]LogSlate: Window 'Message Log' being destroyed
+[2019.11.20-08.41.41:410][492]LogSlate: Window 'Message Log' being destroyed
+[2019.11.20-08.41.42:969][567]LogEditorViewport: Clicking on Actor (LMB): MannequinCharacter_C (MannequinCharacter)
+[2019.11.20-08.41.48:132][641]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-08.42.12:644][297]LogSlate: Window 'ALS_BaseCharacter' being destroyed
+[2019.11.20-08.42.12:660][297]LogSlate: Window 'ALS_BaseCharacter' being destroyed
+[2019.11.20-08.42.13:821][324]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-08.42.14:762][352]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.20-08.42.14:776][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.20-08.42.14:776][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.20-08.42.14:777][352]PIE: New page: PIE session: MainMenu (Nov 20, 2019, 10:42:14 PM)
+[2019.11.20-08.42.14:777][352]LogPlayLevel: Creating play world package: /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_MainMenu
+[2019.11.20-08.42.14:792][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015603s)
+[2019.11.20-08.42.14:794][352]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.20-08.42.14:794][352]LogPlayLevel: PIE: World Init took: (0.001640s)
+[2019.11.20-08.42.14:794][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu to /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_MainMenu.MainMenu (0.017483s)
+[2019.11.20-08.42.14:849][352]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.11.20-08.42.14:849][352]LogGarbage: Warning:       PIE object: World /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_MainMenu.MainMenu
+[2019.11.20-08.42.14:849][352]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.11.20-08.42.14:960][352]LogUObjectHash: Compacting FUObjectHashTables data took   8.35ms
+[2019.11.20-08.42.14:966][352]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.20-08.42.14:977][352]LogInit: FAudioDevice initialized.
+[2019.11.20-08.42.14:979][352]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.20-08.42.15:009][352]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2019.11.20-08.42.15:013][352]LogWorld: Bringing World /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.11.20-15.42.15
+[2019.11.20-08.42.15:013][352]LogWorld: Bringing up level for play took: 0.002846
+[2019.11.20-08.42.15:083][352]PIE: Play in editor start time for /Game/AdvancedLocomotionV3/Maps/UEDPIE_0_MainMenu 1.213
+[2019.11.20-08.42.15:083][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.20-08.42.16:142][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.20-08.42.18:957][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-08.42.18:957][623]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.20-08.42.18:986][623]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.20-08.42.18:986][623]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/AdvancedLocomotionV3/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.20-08.42.19:102][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.20-08.42.19:113][623]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2019.11.20-08.42.19:174][624]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.11.20-08.42.23:010][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.11.20-08.42.23:135][808]LogSlate: Window 'Skripsi - Unreal Editor' being destroyed
+[2019.11.20-08.42.23:471][809]Cmd: QUIT_EDITOR
+[2019.11.20-08.42.23:963][809]LogExit: Preparing to exit.
+[2019.11.20-08.42.25:228][809]LogExit: Editor shut down
+[2019.11.20-08.42.25:228][809]LogExit: Transaction tracking system shut down
+[2019.11.20-08.42.28:037][809]LogExit: Object subsystem successfully closed.
+[2019.11.20-08.42.28:191][809]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.11.20-08.42.28:381][809]LogD3D11RHI: Shutdown
+[2019.11.20-08.42.28:381][809]LogD3D11RHI: CleanupD3DDevice
+[2019.11.20-08.42.28:416][809]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.20-08.42.28:416][809]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.20-08.42.28:433][809]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.20-08.42.28:433][809]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.20-08.42.28:433][809]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.11.20-08.42.28:433][809]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.11.20-08.42.28:698][809]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.11.20-08.42.31:358][809]LogModuleManager: Shutting down and abandoning module BlueprintGraph (698)
+[2019.11.20-08.42.31:358][809]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (696)
+[2019.11.20-08.42.31:358][809]LogModuleManager: Shutting down and abandoning module Voice (694)
+[2019.11.20-08.42.31:358][809]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (692)
+[2019.11.20-08.42.31:358][809]LogModuleManager: Shutting down and abandoning module SceneOutliner (690)
+[2019.11.20-08.42.31:358][809]LogModuleManager: Shutting down and abandoning module AddContentDialog (688)
+[2019.11.20-08.42.31:446][809]LogModuleManager: Shutting down and abandoning module WidgetCarousel (687)
+[2019.11.20-08.42.31:446][809]LogModuleManager: Shutting down and abandoning module EditorWidgets (684)
+[2019.11.20-08.42.31:446][809]LogModuleManager: Shutting down and abandoning module CollectionManager (682)
+[2019.11.20-08.42.31:446][809]LogModuleManager: Shutting down and abandoning module StatsViewer (680)
+[2019.11.20-08.42.31:505][809]LogModuleManager: Shutting down and abandoning module MeshBuilder (678)
+[2019.11.20-08.42.31:505][809]LogModuleManager: Shutting down and abandoning module FoliageEdit (676)
+[2019.11.20-08.42.31:505][809]LogModuleManager: Shutting down and abandoning module LandscapeEditor (674)
+[2019.11.20-08.42.31:682][809]LogModuleManager: Shutting down and abandoning module MeshPaintMode (672)
+[2019.11.20-08.42.31:699][809]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (670)
+[2019.11.20-08.42.31:699][809]LogModuleManager: Shutting down and abandoning module ActorPickerMode (668)
+[2019.11.20-08.42.31:699][809]LogModuleManager: Shutting down and abandoning module GeometryMode (666)
+[2019.11.20-08.42.31:699][809]LogModuleManager: Shutting down and abandoning module TextureAlignMode (664)
+[2019.11.20-08.42.31:699][809]LogModuleManager: Shutting down and abandoning module BspMode (662)
+[2019.11.20-08.42.31:699][809]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (660)
+[2019.11.20-08.42.31:842][809]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (658)
+[2019.11.20-08.42.31:842][809]LogModuleManager: Shutting down and abandoning module AutomationWorker (656)
+[2019.11.20-08.42.31:893][809]LogModuleManager: Shutting down and abandoning module DatasmithFBXImporter (654)
+[2019.11.20-08.42.31:904][809]LogModuleManager: Shutting down and abandoning module DatasmithDeltaGenImporter (652)
+[2019.11.20-08.42.31:904][809]LogModuleManager: Shutting down and abandoning module DatasmithVREDImporter (650)
+[2019.11.20-08.42.31:904][809]LogModuleManager: Shutting down and abandoning module OculusMR (648)
+[2019.11.20-08.42.31:904][809]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (646)
+[2019.11.20-08.42.31:916][809]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (644)
+[2019.11.20-08.42.31:935][809]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (642)
+[2019.11.20-08.42.31:976][809]LogModuleManager: Shutting down and abandoning module PlacementMode (641)
+[2019.11.20-08.42.31:976][809]LogModuleManager: Shutting down and abandoning module MaterialEditor (640)
+[2019.11.20-08.42.32:008][809]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (636)
+[2019.11.20-08.42.32:018][809]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (634)
+[2019.11.20-08.42.32:018][809]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (632)
+[2019.11.20-08.42.32:018][809]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (630)
+[2019.11.20-08.42.32:018][809]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (628)
+[2019.11.20-08.42.32:018][809]LogModuleManager: Shutting down and abandoning module WebMMedia (626)
+[2019.11.20-08.42.32:026][809]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (624)
+[2019.11.20-08.42.32:043][809]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (622)
+[2019.11.20-08.42.32:059][809]LogModuleManager: Shutting down and abandoning module SequenceRecorder (621)
+[2019.11.20-08.42.32:059][809]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (618)
+[2019.11.20-08.42.32:059][809]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (616)
+[2019.11.20-08.42.32:059][809]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (614)
+[2019.11.20-08.42.32:059][809]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (612)
+[2019.11.20-08.42.32:059][809]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (610)
+[2019.11.20-08.42.32:059][809]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (608)
+[2019.11.20-08.42.32:059][809]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (606)
+[2019.11.20-08.42.32:059][809]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (604)
+[2019.11.20-08.42.32:060][809]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (602)
+[2019.11.20-08.42.32:060][809]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (600)
+[2019.11.20-08.42.32:060][809]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (598)
+[2019.11.20-08.42.32:060][809]LogModuleManager: Shutting down and abandoning module CharacterAI (596)
+[2019.11.20-08.42.32:060][809]LogModuleManager: Shutting down and abandoning module SmartSnapping (594)
+[2019.11.20-08.42.32:060][809]LogModuleManager: Shutting down and abandoning module SessionServices (592)
+[2019.11.20-08.42.32:060][809]LogModuleManager: Shutting down and abandoning module MeshPaint (590)
+[2019.11.20-08.42.32:076][809]LogModuleManager: Shutting down and abandoning module ViewportSnapping (588)
+[2019.11.20-08.42.32:076][809]LogModuleManager: Shutting down and abandoning module ViewportInteraction (586)
+[2019.11.20-08.42.32:076][809]LogModuleManager: Shutting down and abandoning module ClothPainter (584)
+[2019.11.20-08.42.32:084][809]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (583)
+[2019.11.20-08.42.32:107][809]LogModuleManager: Shutting down and abandoning module LogVisualizer (580)
+[2019.11.20-08.42.32:176][809]LogModuleManager: Shutting down and abandoning module IntroTutorials (578)
+[2019.11.20-08.42.32:187][809]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (577)
+[2019.11.20-08.42.32:232][809]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (574)
+[2019.11.20-08.42.32:232][809]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (572)
+[2019.11.20-08.42.32:232][809]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (570)
+[2019.11.20-08.42.32:232][809]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (568)
+[2019.11.20-08.42.32:244][809]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (567)
+[2019.11.20-08.42.33:716][809]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (564)
+[2019.11.20-08.42.33:716][809]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (562)
+[2019.11.20-08.42.33:716][809]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (560)
+[2019.11.20-08.42.33:716][809]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (558)
+[2019.11.20-08.42.33:716][809]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (556)
+[2019.11.20-08.42.33:716][809]LogModuleManager: Shutting down and abandoning module InputBindingEditor (554)
+[2019.11.20-08.42.33:733][809]LogModuleManager: Shutting down and abandoning module MergeActors (552)
+[2019.11.20-08.42.33:750][809]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (550)
+[2019.11.20-08.42.33:767][809]LogModuleManager: Shutting down and abandoning module LocalizationService (549)
+[2019.11.20-08.42.33:783][809]LogModuleManager: Shutting down and abandoning module HardwareTargeting (546)
+[2019.11.20-08.42.33:783][809]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (544)
+[2019.11.20-08.42.33:789][809]LogModuleManager: Shutting down and abandoning module UndoHistory (542)
+[2019.11.20-08.42.33:795][809]LogModuleManager: Shutting down and abandoning module XmlParser (540)
+[2019.11.20-08.42.33:807][809]LogModuleManager: Shutting down and abandoning module Blutility (538)
+[2019.11.20-08.42.33:817][809]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (536)
+[2019.11.20-08.42.33:817][809]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (535)
+[2019.11.20-08.42.33:818][809]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (532)
+[2019.11.20-08.42.33:818][809]LogModuleManager: Shutting down and abandoning module SettingsEditor (530)
+[2019.11.20-08.42.33:840][809]LogModuleManager: Shutting down and abandoning module ProjectLauncher (528)
+[2019.11.20-08.42.33:852][809]LogModuleManager: Shutting down and abandoning module SessionFrontend (526)
+[2019.11.20-08.42.33:890][809]LogModuleManager: Shutting down and abandoning module ProfilerClient (524)
+[2019.11.20-08.42.33:905][809]LogModuleManager: Shutting down and abandoning module DeviceManager (522)
+[2019.11.20-08.42.33:914][809]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (521)
+[2019.11.20-08.42.33:957][809]LogModuleManager: Shutting down and abandoning module AutomationController (518)
+[2019.11.20-08.42.33:967][809]LogModuleManager: Shutting down and abandoning module AutomationWindow (516)
+[2019.11.20-08.42.33:990][809]LogModuleManager: Shutting down and abandoning module Layers (514)
+[2019.11.20-08.42.34:023][809]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (512)
+[2019.11.20-08.42.34:023][809]LogModuleManager: Shutting down and abandoning module DetailCustomizations (510)
+[2019.11.20-08.42.34:023][809]LogModuleManager: Shutting down and abandoning module PackagesDialog (508)
+[2019.11.20-08.42.34:024][809]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (506)
+[2019.11.20-08.42.34:050][809]LogModuleManager: Shutting down and abandoning module Persona (504)
+[2019.11.20-08.42.34:076][809]LogModuleManager: Shutting down and abandoning module AnimGraph (503)
+[2019.11.20-08.42.34:076][809]LogModuleManager: Shutting down and abandoning module Kismet (500)
+[2019.11.20-08.42.34:097][809]LogModuleManager: Shutting down and abandoning module GraphEditor (498)
+[2019.11.20-08.42.34:131][809]LogModuleManager: Shutting down and abandoning module ClassViewer (496)
+[2019.11.20-08.42.34:132][809]LogModuleManager: Shutting down and abandoning module Toolbox (494)
+[2019.11.20-08.42.34:132][809]LogModuleManager: Shutting down and abandoning module DesktopPlatform (493)
+[2019.11.20-08.42.34:132][809]LogModuleManager: Shutting down and abandoning module ModuleUI (490)
+[2019.11.20-08.42.34:150][809]LogModuleManager: Shutting down and abandoning module MovieSceneTools (488)
+[2019.11.20-08.42.34:181][809]LogModuleManager: Shutting down and abandoning module OutputLog (486)
+[2019.11.20-08.42.34:181][809]LogModuleManager: Shutting down and abandoning module GammaUI (484)
+[2019.11.20-08.42.34:192][809]LogModuleManager: Shutting down and abandoning module Documentation (482)
+[2019.11.20-08.42.34:192][809]LogModuleManager: Shutting down and abandoning module LiveCoding (480)
+[2019.11.20-08.42.34:315][809]LogModuleManager: Shutting down and abandoning module LevelSequence (478)
+[2019.11.20-08.42.34:315][809]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (476)
+[2019.11.20-08.42.34:315][809]LogModuleManager: Shutting down and abandoning module MovieScene (474)
+[2019.11.20-08.42.34:315][809]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (472)
+[2019.11.20-08.42.34:315][809]LogModuleManager: Shutting down and abandoning module LauncherPlatform (470)
+[2019.11.20-08.42.34:315][809]LogModuleManager: Shutting down and abandoning module AnalyticsET (468)
+[2019.11.20-08.42.34:315][809]LogModuleManager: Shutting down and abandoning module PortalServices (466)
+[2019.11.20-08.42.34:315][809]LogModuleManager: Shutting down and abandoning module PortalRpc (464)
+[2019.11.20-08.42.34:315][809]LogModuleManager: Shutting down and abandoning module MessagingRpc (462)
+[2019.11.20-08.42.34:315][809]LogModuleManager: Shutting down and abandoning module AIModule (460)
+[2019.11.20-08.42.34:316][809]LogModuleManager: Shutting down and abandoning module GameplayDebugger (459)
+[2019.11.20-08.42.34:316][809]LogModuleManager: Shutting down and abandoning module AITestSuite (457)
+[2019.11.20-08.42.34:327][809]LogModuleManager: Shutting down and abandoning module NavigationSystem (455)
+[2019.11.20-08.42.34:327][809]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (452)
+[2019.11.20-08.42.34:332][809]LogModuleManager: Shutting down and abandoning module ProfilerService (450)
+[2019.11.20-08.42.34:350][809]LogModuleManager: Shutting down and abandoning module TaskGraph (448)
+[2019.11.20-08.42.34:382][809]LogModuleManager: Shutting down and abandoning module DatasmithCADImporter (446)
+[2019.11.20-08.42.34:383][809]LogModuleManager: Shutting down and abandoning module VariantManager (444)
+[2019.11.20-08.42.34:396][809]LogModuleManager: Shutting down and abandoning module StaticMeshEditorExtension (442)
+[2019.11.20-08.42.34:396][809]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (441)
+[2019.11.20-08.42.34:427][809]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (440)
+[2019.11.20-08.42.34:427][809]LogModuleManager: Shutting down and abandoning module MeshProcessingLibrary (437)
+[2019.11.20-08.42.34:427][809]LogModuleManager: Shutting down and abandoning module MDLImporter (434)
+[2019.11.20-08.42.34:437][809]LogModuleManager: Shutting down and abandoning module DatasmithGLTFImporter (432)
+[2019.11.20-08.42.34:481][809]LogModuleManager: Shutting down and abandoning module DatasmithImporter (431)
+[2019.11.20-08.42.34:525][809]LogModuleManager: Shutting down and abandoning module DatasmithDataPrepLibraries (428)
+[2019.11.20-08.42.34:526][809]LogModuleManager: Shutting down and abandoning module DatasmithDataPrepEditor (426)
+[2019.11.20-08.42.34:548][809]LogModuleManager: Shutting down and abandoning module SteamVRController (424)
+[2019.11.20-08.42.34:548][809]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (422)
+[2019.11.20-08.42.34:548][809]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (420)
+[2019.11.20-08.42.34:548][809]LogModuleManager: Shutting down and abandoning module OculusEditor (418)
+[2019.11.20-08.42.34:566][809]LogModuleManager: Shutting down and abandoning module OculusInput (416)
+[2019.11.20-08.42.34:566][809]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (414)
+[2019.11.20-08.42.34:566][809]LogModuleManager: Shutting down and abandoning module EditableMesh (412)
+[2019.11.20-08.42.34:575][809]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (410)
+[2019.11.20-08.42.34:575][809]LogModuleManager: Shutting down and abandoning module CableComponent (408)
+[2019.11.20-08.42.34:575][809]LogModuleManager: Shutting down and abandoning module AudioCapture (406)
+[2019.11.20-08.42.34:576][809]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (404)
+[2019.11.20-08.42.34:576][809]LogModuleManager: Shutting down and abandoning module AndroidPermission (402)
+[2019.11.20-08.42.34:576][809]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (400)
+[2019.11.20-08.42.34:590][809]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (398)
+[2019.11.20-08.42.34:598][809]LogModuleManager: Shutting down and abandoning module MediaCompositing (396)
+[2019.11.20-08.42.34:599][809]LogModuleManager: Shutting down and abandoning module LinearTimecode (394)
+[2019.11.20-08.42.34:599][809]LogModuleManager: Shutting down and abandoning module ImgMedia (392)
+[2019.11.20-08.42.34:599][809]LogModuleManager: Shutting down and abandoning module DialoguePluginEditor (390)
+[2019.11.20-08.42.34:599][809]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (388)
+[2019.11.20-08.42.34:599][809]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (386)
+[2019.11.20-08.42.34:599][809]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (384)
+[2019.11.20-08.42.34:599][809]LogModuleManager: Shutting down and abandoning module HTML5Networking (382)
+[2019.11.20-08.42.34:599][809]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (380)
+[2019.11.20-08.42.34:599][809]LogModuleManager: Shutting down and abandoning module GeometryCollectionExampleCore (378)
+[2019.11.20-08.42.34:664][809]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.11.20-08.42.34:665][809]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.11.20-08.42.34:665][809]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (372)
+[2019.11.20-08.42.34:665][809]LogModuleManager: Shutting down and abandoning module BlastAuthoring (370)
+[2019.11.20-08.42.34:665][809]LogModuleManager: Shutting down and abandoning module BackChannel (368)
+[2019.11.20-08.42.34:665][809]LogModuleManager: Shutting down and abandoning module AppleVision (366)
+[2019.11.20-08.42.34:665][809]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (364)
+[2019.11.20-08.42.34:665][809]LogModuleManager: Shutting down and abandoning module AppleImageUtils (362)
+[2019.11.20-08.42.34:665][809]LogModuleManager: Shutting down and abandoning module AlembicImporter (360)
+[2019.11.20-08.42.34:665][809]LogModuleManager: Shutting down and abandoning module AlembicLibrary (359)
+[2019.11.20-08.42.34:665][809]LogModuleManager: Shutting down and abandoning module GeometryCache (358)
+[2019.11.20-08.42.34:665][809]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (357)
+[2019.11.20-08.42.34:665][809]LogModuleManager: Shutting down and abandoning module VariantManagerContent (352)
+[2019.11.20-08.42.34:665][809]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (350)
+[2019.11.20-08.42.34:665][809]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (348)
+[2019.11.20-08.42.34:665][809]LogModuleManager: Shutting down and abandoning module PluginBrowser (346)
+[2019.11.20-08.42.34:665][809]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (344)
+[2019.11.20-08.42.34:684][809]LogModuleManager: Shutting down and abandoning module PolygonModeling (342)
+[2019.11.20-08.42.34:684][809]LogModuleManager: Shutting down and abandoning module MeshEditor (340)
+[2019.11.20-08.42.34:684][809]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (338)
+[2019.11.20-08.42.34:698][809]LogModuleManager: Shutting down and abandoning module GLTFImporter (336)
+[2019.11.20-08.42.34:698][809]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (334)
+[2019.11.20-08.42.34:698][809]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (332)
+[2019.11.20-08.42.34:698][809]LogModuleManager: Shutting down and abandoning module CryptoKeys (330)
+[2019.11.20-08.42.34:698][809]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (328)
+[2019.11.20-08.42.34:698][809]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (326)
+[2019.11.20-08.42.34:698][809]LogModuleManager: Shutting down and abandoning module UObjectPlugin (324)
+[2019.11.20-08.42.34:698][809]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (322)
+[2019.11.20-08.42.34:718][809]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (320)
+[2019.11.20-08.42.34:740][809]LogModuleManager: Shutting down and abandoning module GitSourceControl (318)
+[2019.11.20-08.42.34:757][809]LogModuleManager: Shutting down and abandoning module SourceControl (317)
+[2019.11.20-08.42.34:763][809]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (314)
+[2019.11.20-08.42.34:763][809]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (312)
+[2019.11.20-08.42.34:763][809]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (310)
+[2019.11.20-08.42.34:763][809]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (308)
+[2019.11.20-08.42.34:763][809]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2019.11.20-08.42.34:763][809]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2019.11.20-08.42.34:763][809]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2019.11.20-08.42.34:763][809]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2019.11.20-08.42.34:791][809]LogModuleManager: Shutting down and abandoning module Skripsi (298)
+[2019.11.20-08.42.34:791][809]LogModuleManager: Shutting down and abandoning module SignificanceManager (296)
+[2019.11.20-08.42.34:791][809]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.11.20-08.42.34:791][809]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.11.20-08.42.34:791][809]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.11.20-08.42.34:791][809]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (288)
+[2019.11.20-08.42.34:791][809]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2019.11.20-08.42.34:791][809]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2019.11.20-08.42.34:891][809]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2019.11.20-08.42.35:019][809]LogModuleManager: Shutting down and abandoning module DialoguePlugin (280)
+[2019.11.20-08.42.35:019][809]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2019.11.20-08.42.35:019][809]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2019.11.20-08.42.35:019][809]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2019.11.20-08.42.35:039][809]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2019.11.20-08.42.35:040][809]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2019.11.20-08.42.35:042][809]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.11.20-08.42.35:042][809]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2019.11.20-08.42.35:042][809]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2019.11.20-08.42.35:043][809]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2019.11.20-08.42.35:048][809]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2019.11.20-08.42.35:048][809]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2019.11.20-08.42.35:048][809]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2019.11.20-08.42.35:048][809]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2019.11.20-08.42.35:064][809]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2019.11.20-08.42.35:078][809]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2019.11.20-08.42.35:090][809]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2019.11.20-08.42.35:091][809]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2019.11.20-08.42.35:091][809]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2019.11.20-08.42.35:113][809]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2019.11.20-08.42.35:115][809]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2019.11.20-08.42.35:123][809]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2019.11.20-08.42.35:123][809]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2019.11.20-08.42.35:123][809]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2019.11.20-08.42.35:123][809]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2019.11.20-08.42.35:132][809]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2019.11.20-08.42.35:132][809]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2019.11.20-08.42.35:132][809]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2019.11.20-08.42.35:132][809]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2019.11.20-08.42.35:132][809]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2019.11.20-08.42.35:199][809]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2019.11.20-08.42.35:199][809]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2019.11.20-08.42.35:199][809]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2019.11.20-08.42.35:199][809]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.11.20-08.42.35:208][809]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.11.20-08.42.35:224][809]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.11.20-08.42.35:224][809]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.11.20-08.42.35:251][809]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.11.20-08.42.35:273][809]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.11.20-08.42.35:331][809]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.11.20-08.42.35:336][809]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.11.20-08.42.35:336][809]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.11.20-08.42.35:353][809]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.11.20-08.42.35:410][809]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.11.20-08.42.35:410][809]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.11.20-08.42.35:526][809]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.11.20-08.42.35:526][809]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.11.20-08.42.35:529][809]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.11.20-08.42.35:529][809]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.11.20-08.42.35:529][809]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.11.20-08.42.35:529][809]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.11.20-08.42.35:529][809]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.11.20-08.42.35:529][809]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.11.20-08.42.35:529][809]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.11.20-08.42.35:529][809]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.11.20-08.42.35:529][809]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.11.20-08.42.35:529][809]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.11.20-08.42.35:542][809]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.11.20-08.42.35:542][809]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.11.20-08.42.35:552][809]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.11.20-08.42.35:577][809]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.11.20-08.42.35:577][809]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.11.20-08.42.35:589][809]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.11.20-08.42.35:599][809]LogDerivedDataCache: Shutdown
+[2019.11.20-08.42.35:599][809]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.11.20-08.42.35:612][809]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.11.20-08.42.35:619][809]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.11.20-08.42.35:628][809]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.11.20-08.42.35:628][809]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.11.20-08.42.35:642][809]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.11.20-08.42.35:642][809]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.11.20-08.42.35:655][809]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.11.20-08.42.35:655][809]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.11.20-08.42.35:655][809]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.11.20-08.42.35:655][809]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.11.20-08.42.35:656][809]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.11.20-08.42.35:656][809]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.11.20-08.42.35:656][809]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.11.20-08.42.35:656][809]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.11.20-08.42.35:661][809]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.11.20-08.42.35:661][809]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.11.20-08.42.35:661][809]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.11.20-08.42.35:662][809]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.11.20-08.42.35:663][809]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.11.20-08.42.35:663][809]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.11.20-08.42.35:663][809]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.11.20-08.42.35:663][809]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.11.20-08.42.35:664][809]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.11.20-08.42.35:664][809]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.11.20-08.42.35:665][809]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.11.20-08.42.35:665][809]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.11.20-08.42.35:675][809]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.11.20-08.42.35:675][809]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.11.20-08.42.35:675][809]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.11.20-08.42.35:675][809]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.11.20-08.42.35:675][809]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.11.20-08.42.35:675][809]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.11.20-08.42.35:675][809]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.11.20-08.42.35:675][809]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.11.20-08.42.35:675][809]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.11.20-08.42.35:675][809]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.11.20-08.42.35:675][809]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.11.20-08.42.35:675][809]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.11.20-08.42.35:675][809]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.11.20-08.42.35:676][809]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.11.20-08.42.35:686][809]LogHMD: Freeing OpenVRDLLHandle.
+[2019.11.20-08.42.35:686][809]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.11.20-08.42.35:698][809]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.11.20-08.42.35:698][809]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.11.20-08.42.35:698][809]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.11.20-08.42.35:698][809]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.11.20-08.42.35:699][809]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.11.20-08.42.35:717][809]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.11.20-08.42.35:818][809]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.11.20-08.42.35:818][809]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.11.20-08.42.35:818][809]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9975127B-4EAD-650B-9FC4-0F95C43A7BE3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=c5bdeca94d8f00f9cc007ebb5f4cc6fa%7Cb49674dc30f14b7197cffb2125a4aacb%7C90ab3781-824e-4c8b-b30b-d213f4724f2a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.11.20-08.42.35:818][809]LogHttp: Warning: 00000000539C42C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.11.20-08.42.35:818][809]LogHttp: Warning: 00000000539C42C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.11.20-08.42.35:818][809]LogHttp: Warning: 00000000539C42C0: libcurl info message cache 1 (Closing connection 1)
+[2019.11.20-08.42.35:837][809]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.11.20-08.42.35:840][809]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.11.20-08.42.35:896][809]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.11.20-08.42.35:902][809]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.11.20-08.42.35:914][809]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.11.20-08.42.35:915][809]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.11.20-08.42.35:926][809]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.11.20-08.42.35:926][809]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.11.20-08.42.35:958][809]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.11.20-08.42.35:982][809]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.11.20-08.42.35:982][809]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.11.20-08.42.35:982][809]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.11.20-08.42.36:008][809]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.11.20-08.42.36:060][809]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.11.20-08.42.36:060][809]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.11.20-08.42.36:066][809]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.11.20-08.42.36:066][809]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.11.20-08.42.36:066][809]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.11.20-08.42.36:066][809]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.11.20-08.42.36:066][809]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.11.20-08.42.36:066][809]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.11.20-08.42.36:066][809]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.11.20-08.42.36:066][809]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.11.20-08.42.36:073][809]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.11.20-08.42.36:096][809]LogExit: Exiting.
+[2019.11.20-08.42.36:157][809]Log file closed, 11/20/19 15:42:36

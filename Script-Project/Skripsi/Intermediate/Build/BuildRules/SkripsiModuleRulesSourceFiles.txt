@@ -1,0 +1,3 @@
+E:\UnrealEngine\Skripsi\Source\Skripsi\Skripsi.Build.cs
+E:\UnrealEngine\Skripsi\Source\Skripsi.Target.cs
+E:\UnrealEngine\Skripsi\Source\SkripsiEditor.Target.cs

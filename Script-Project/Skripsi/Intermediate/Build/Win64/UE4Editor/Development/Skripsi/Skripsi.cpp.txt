@@ -1,0 +1,2 @@
+E:\UnrealEngine\Skripsi\Intermediate\Build\Win64\UE4Editor\Development\Skripsi\Definitions.Skripsi.h
+e:\unrealengine\skripsi\source\skripsi\Skripsi.h

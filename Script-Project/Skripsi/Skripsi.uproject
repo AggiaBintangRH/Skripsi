@@ -1,0 +1,89 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.22",
+	"Category": "",
+	"Description": "",
+	"Enterprise": true,
+	"Modules": [
+		{
+			"Name": "Skripsi",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "RMAMirrorAnimation",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3078940d2e5a4fabb31375f909609b90"
+		},
+		{
+			"Name": "DialoguePlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/847aa65dc3024a37ae83ed89307524bd"
+		},
+		{
+			"Name": "ST_ExportPNG",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/230db584ce5749f284945d3286c745fa"
+		},
+		{
+			"Name": "GameAnalytics",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d070c3fab7b74c08bab3a89c9cbf4490"
+		},
+		{
+			"Name": "LowEntryExtStdLib",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/846c2ad08f164f45b0335ecebf85361e"
+		},
+		{
+			"Name": "MagicNode",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/38f49e7411bc47588e0d219758d6b16f"
+		},
+		{
+			"Name": "MultiDex",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/cce07f5135e84dd98738a330b99760a7"
+		},
+		{
+			"Name": "QuickCommands",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d99b947e097b499985694cec86592660"
+		},
+		{
+			"Name": "SaveExtension",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/91084f43b68047ac8da6fc88a7467936"
+		},
+		{
+			"Name": "SCUE4",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/cff7ca410375488fb0d13221b7446041"
+		},
+		{
+			"Name": "SocketIOClient",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/770c3db686a948e09ccb208705a8e736"
+		},
+		{
+			"Name": "ToolbagImporter",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5510b9babf944b8e97cd533640f78a2f"
+		},
+		{
+			"Name": "UINavigation",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4601ff4d12fc4ed1a7418e1585374a48"
+		},
+		{
+			"Name": "AssetBuilderToolsDemo",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/cb4747eb468641448dcd4c2788822041"
+		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
+	]
+}

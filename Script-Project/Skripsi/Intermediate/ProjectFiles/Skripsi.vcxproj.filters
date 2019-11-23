@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Skripsi.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D803216F-161F-48FC-B5C1-BD5AAD543EA0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Skripsi.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SkripsiEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Skripsi.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{7DD59CE8-6EF0-4032-9FBE-85AB736101E6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Skripsi">
+      <UniqueIdentifier>{200FC2BF-9E51-46DD-A011-130F2F9DD9DC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Skripsi\MyCharacter.cpp">
+      <Filter>Source\Skripsi</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Skripsi\MyCharacter.h">
+      <Filter>Source\Skripsi</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Skripsi\Skripsi.Build.cs">
+      <Filter>Source\Skripsi</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Skripsi\Skripsi.cpp">
+      <Filter>Source\Skripsi</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Skripsi\Skripsi.h">
+      <Filter>Source\Skripsi</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+﻿  Creating makefile for SkripsiEditor (no existing makefile)
+  Parsing headers for SkripsiEditor
+    Running UnrealHeaderTool "E:\UnrealEngine\Skripsi\Skripsi.uproject" "E:\UnrealEngine\Skripsi\Intermediate\Build\Win64\SkripsiEditor\Development\SkripsiEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for SkripsiEditor in 26.7248215 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (D:\Program Files\MicrosoftVisualStudio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (D:\Windows Kits\10).
+  Building 7 actions with 2 processes...
+    [1/7] Default.rc2
+    [2/7] SharedPCH.Engine.cpp
+    [3/7] MyCharacter.cpp
+    [4/7] Skripsi.cpp
+    [5/7] UE4Editor-Skripsi.lib
+       Creating library E:\UnrealEngine\Skripsi\Intermediate\Build\Win64\UE4Editor\Development\Skripsi\UE4Editor-Skripsi.lib and object E:\UnrealEngine\Skripsi\Intermediate\Build\Win64\UE4Editor\Development\Skripsi\UE4Editor-Skripsi.exp
+    [6/7] UE4Editor-Skripsi.dll
+       Creating library E:\UnrealEngine\Skripsi\Intermediate\Build\Win64\UE4Editor\Development\Skripsi\UE4Editor-Skripsi.suppressed.lib and object E:\UnrealEngine\Skripsi\Intermediate\Build\Win64\UE4Editor\Development\Skripsi\UE4Editor-Skripsi.suppressed.exp
+    [7/7] SkripsiEditor.target
+  Total time in Parallel executor: 198.67 seconds
+  Total execution time: 250.42 seconds

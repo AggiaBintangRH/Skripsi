@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Skripsi.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UnrealEngine\Skripsi\Intermediate\Build\Win64\SkripsiEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\UnrealEngine\Skripsi\Intermediate\Build\Win64\UE4Editor\Development\Skripsi\MyCharacter.cpp.obj"
+"E:\UnrealEngine\Skripsi\Intermediate\Build\Win64\UE4Editor\Development\Skripsi\Skripsi.cpp.obj"
+"E:\UnrealEngine\Skripsi\Intermediate\Build\Win64\UE4Editor\Development\Skripsi\Default.rc2.res"
+/OUT:"E:\UnrealEngine\Skripsi\Intermediate\Build\Win64\UE4Editor\Development\Skripsi\UE4Editor-Skripsi.lib"
+/INCLUDE:IMPLEMENT_MODULE_Skripsi
