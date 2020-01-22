@@ -1,1 +1,1 @@
-Dalam Folder Ini Berisi File Laporan PDF Dan Docx
+Dalam Folder Ini Berisi File Laporan PDF
